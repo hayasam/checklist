@@ -45,7 +45,7 @@
     "react-dom": "^16.4.1",
     "react-infinite-scroller": "^1.2.4",
     "react-vega": "^7.1.0",
-    "requirejs": "^2.3.6",
+    "requirejs": "^2.3.7",
     "style-loader": "^0.21.0",
     "typescript-require": "^0.2.10",
     "vega": "^5.17.3",
