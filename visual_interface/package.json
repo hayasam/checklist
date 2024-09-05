@@ -29,12 +29,12 @@
     "debug": "npx webpack-dev-server  --devtool eval --progress --colors --hot --content-base --inline"
   },
   "dependencies": {
-    "@jupyter-widgets/base": "^1.1 || ^2",
+    "@jupyter-widgets/base": "^3.0.0",
     "@types/lodash": "^4.14.141",
     "@types/react": "^16.9.9",
     "@types/react-dom": "^16.9.2",
-    "antd": "^3.24.2",
-    "css-loader": "^3.0.0",
+    "antd": "^5.0.0",
+    "css-loader": "^6.0.0",
     "d3-scale": "^3.2.1",
     "diff": "^4.0.1",
     "es6-map": "^0.1.5",
@@ -46,9 +46,9 @@
     "react-infinite-scroller": "^1.2.4",
     "react-vega": "^7.1.0",
     "requirejs": "^2.3.6",
-    "style-loader": "^0.21.0",
+    "style-loader": "^3.0.0",
     "typescript-require": "^0.2.10",
-    "vega": "^5.17.3",
+    "vega": "^5.30.0",
     "vega-lite": "^4.0.0-beta.10"
   },
   "devDependencies": {
